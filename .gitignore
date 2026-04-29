@@ -1,0 +1,17 @@
+# Ambiente virtual — não sobe para o GitHub
+venv/
+
+# Arquivos gerados automaticamente pelo Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de sistema do Windows
+Thumbs.db
+desktop.ini
+
+# Variáveis de ambiente (senhas, chaves de API)
+.env
+
+# Dados brutos (podem ser grandes demais)
+data/raw/
