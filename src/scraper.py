@@ -22,7 +22,15 @@ def extrair_detalhes(vagas):
 
     for vaga in vagas:
         cargo = vaga.find("a", class_="link-detalhes-vaga")
-        print(cargo.text.strip())
+        texto_cargo = cargo.text.strip() if cargo else "Não informado"
+        empresa = vaga.find("span", class_="emprVaga")
+        texto_empresa = empresa.text.strip() if empresa else "Não informado"
+        cidade = vaga.find("span", class_="local")
+        texto_cidade = cidade.text.strip() if cidade else "Não informado"
+        nivel_vaga = vaga.find("span", class_="nivelVaga")
+        texto_nivel_vaga = nivel_vaga.text.strip() if nivel_vaga else "Não informado"
+        print(f"Cargo: {texto_cargo} | Empresa: {texto_empresa} | Cidade: {texto_cidade} | Nivel Vaga: { texto_nivel_vaga}")
+        #print(cargo.text.strip())
 
 
 
