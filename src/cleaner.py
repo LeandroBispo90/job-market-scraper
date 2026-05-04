@@ -27,6 +27,9 @@ def limpar_dados(df_filtrado):
     df_limpo = df_filtrado.drop_duplicates(subset=["cargo"], keep="first").copy()
     df_limpo["cargo"] = df_limpo["cargo"].str.strip()
     df_limpo["empresa"] = df_limpo["empresa"].str.strip()
+    df_limpo["cidade"] = df_limpo["cidade"].str.replace(r'\s+', ' ', regex=True)
+    df_limpo["cidade"] = df_limpo["cidade"].str.strip()
+    df_limpo[["cidade", "estado"]] = df_limpo["cidade"].str.split(" / ", expand=True)
 
     return df_limpo
 

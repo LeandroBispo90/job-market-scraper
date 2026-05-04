@@ -34,8 +34,12 @@ def extrair_detalhes(vagas):
         empresa = vaga.find("span", class_="emprVaga")
         texto_empresa = empresa.text.strip() if empresa else "Não informado"
 
-        cidade = vaga.find("span", class_="local")
-        texto_cidade = cidade.text.strip() if cidade else "Não informado"
+        cidade = vaga.find("div", class_="vaga-local")
+        if cidade:
+        # pega só o texto direto, ignorando tags filhas
+            texto_cidade = list(cidade.stripped_strings)[0] if len(list(cidade.stripped_strings)) > 0 else "Não informado"
+        else:
+            texto_cidade = "Não informado"
 
         nivel_vaga = vaga.find("span", class_="nivelVaga")
         texto_nivel_vaga = nivel_vaga.text.strip() if nivel_vaga else "Não informado"
