@@ -7,12 +7,13 @@ com limpeza dos dados e exportação para Power BI.
 
 ## 💡 Motivação
 
-O mercado de dados cresce rapidamente, mas é difícil entender quais
-habilidades são mais valorizadas, quais cidades concentram mais vagas
-e quais ferramentas dominam as descrições de emprego.
+O mercado de trabalho brasileiro é amplo e diversificado, mas é difícil 
+ter uma visão clara de quais áreas têm mais oportunidades, quais empresas 
+mais contratam e como as vagas se distribuem por região.
 
-Este projeto automatiza essa coleta e transforma os dados brutos em
-insumo para análise e visualização.
+Este projeto automatiza a coleta de vagas de 10 áreas diferentes, 
+transforma os dados brutos em informação estruturada e gera insumo 
+para análise e visualização no Power BI.
 
 ---
 
