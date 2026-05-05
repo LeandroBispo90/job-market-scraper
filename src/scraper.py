@@ -1,6 +1,6 @@
 import requests 
 from bs4 import BeautifulSoup
-import pandas
+import pandas as pd
 
 def buscar_vagas(url):
     headers = {
@@ -64,10 +64,29 @@ def extrair_detalhes(vagas):
 
     return df
         
-url = "https://www.vagas.com.br/vagas-de-analista-de-dados"
-soup = buscar_vagas(url)
-vagas = extrair_vagas(soup)
-df = extrair_detalhes(vagas)
-print(df)
+urls = [
+    "https://www.vagas.com.br/vagas-de-analista-de-dados",
+    "https://www.vagas.com.br/vagas-de-engenheiro-de-software",
+    "https://www.vagas.com.br/vagas-de-devops",
+    "https://www.vagas.com.br/vagas-de-marketing",
+    "https://www.vagas.com.br/vagas-de-vendas",
+    "https://www.vagas.com.br/vagas-de-financeiro",
+    "https://www.vagas.com.br/vagas-de-logistica",
+    "https://www.vagas.com.br/vagas-de-recursos-humanos",
+    "https://www.vagas.com.br/vagas-de-administrativo",
+    "https://www.vagas.com.br/vagas-de-enfermagem",
+]
 
-df.to_csv("../data/processed/VAGAS.csv", index=False, encoding="utf-8-sig", sep=";")
+todos_dfs = []
+
+for url in urls:
+    print(f"Coletando: {url}")
+    soup = buscar_vagas(url)
+    vagas = extrair_vagas(soup)
+    df = extrair_detalhes(vagas)
+    todos_dfs.append(df)
+
+df_final = pd.concat(todos_dfs, ignore_index=True)
+print(df_final.shape)
+df_final.to_csv("../data/processed/VAGAS.csv", index=False, encoding="utf-8-sig", sep=";")
+print("Arquivo salvo!")

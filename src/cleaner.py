@@ -20,7 +20,7 @@ def filtrar_vagas(df):
 
 # fora da função
 df_filtrado = filtrar_vagas(df)
-print(df_filtrado.shape)
+print(df.shape)
 
 def limpar_dados(df_filtrado):
 
@@ -33,7 +33,7 @@ def limpar_dados(df_filtrado):
 
     return df_limpo
 
-df_limpo = limpar_dados(df_filtrado)
+df_limpo = limpar_dados(df)
 df_limpo.to_csv("../data/processed/vagas_limpo.csv", index=False, encoding="utf-8-sig", sep=";")
 
 print(f"Total de vagas após limpeza: {len(df_limpo)}")
