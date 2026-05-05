@@ -1,7 +1,7 @@
 # 📊 Job Market Scraper
 
-Coleta automatizada de vagas de emprego na área de dados no Brasil,
-com análise exploratória e exportação para Power BI.
+Coleta automatizada de vagas de emprego de 10 áreas do mercado brasileiro,
+com limpeza dos dados e exportação para Power BI.
 
 ---
 
@@ -18,7 +18,7 @@ insumo para análise e visualização.
 
 ## 🎯 Objetivos
 
-- Coletar vagas de dados de fontes públicas
+- Coletar vagas de 10 áreas diferentes do mercado brasileiro
 - Extrair informações como cargo, empresa, cidade, skills e nível
 - Limpar e estruturar os dados com pandas
 - Exportar para CSV/Excel pronto para análise no Power BI
@@ -98,6 +98,8 @@ Ao executar o projeto, serão gerados:
 
 ## 🔮 Próximos Passos
 
+- [x] Expandir coleta para múltiplas áreas
+- [x] Separar cidade e estado em colunas distintas
 - [ ] Adicionar mais fontes de vagas
 - [ ] Criar dashboard no Power BI
 - [ ] Agendar execução automática com schedule
