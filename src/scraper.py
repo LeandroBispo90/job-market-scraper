@@ -1,6 +1,9 @@
 import requests 
-from bs4 import BeautifulSoup
 import pandas as pd
+from bs4 import BeautifulSoup
+from exporter import exportar_csv 
+
+
 
 def buscar_vagas(url):
     headers = {
@@ -30,6 +33,7 @@ def extrair_detalhes(vagas):
         # 2. extraindo dados
         cargo = vaga.find("a", class_="link-detalhes-vaga")
         texto_cargo = cargo.text.strip() if cargo else "Não informado"
+
 
         empresa = vaga.find("span", class_="emprVaga")
         texto_empresa = empresa.text.strip() if empresa else "Não informado"
@@ -64,29 +68,31 @@ def extrair_detalhes(vagas):
 
     return df
         
-urls = [
-    "https://www.vagas.com.br/vagas-de-analista-de-dados",
-    "https://www.vagas.com.br/vagas-de-engenheiro-de-software",
-    "https://www.vagas.com.br/vagas-de-devops",
-    "https://www.vagas.com.br/vagas-de-marketing",
-    "https://www.vagas.com.br/vagas-de-vendas",
-    "https://www.vagas.com.br/vagas-de-financeiro",
-    "https://www.vagas.com.br/vagas-de-logistica",
-    "https://www.vagas.com.br/vagas-de-recursos-humanos",
-    "https://www.vagas.com.br/vagas-de-administrativo",
-    "https://www.vagas.com.br/vagas-de-enfermagem",
-]
+urls = {
+    "analista-de-dados": "https://www.vagas.com.br/vagas-de-analista-de-dados",
+    "engenheiro-de-software": "https://www.vagas.com.br/vagas-de-engenheiro-de-software",
+    "devops": "https://www.vagas.com.br/vagas-de-devops",
+    "marketing": "https://www.vagas.com.br/vagas-de-marketing",
+    "vendas": "https://www.vagas.com.br/vagas-de-vendas",
+    "financeiro": "https://www.vagas.com.br/vagas-de-financeiro",
+    "logistica": "https://www.vagas.com.br/vagas-de-logistica",
+    "recursos-humanos": "https://www.vagas.com.br/vagas-de-recursos-humanos",
+    "administrativo": "https://www.vagas.com.br/vagas-de-administrativo",
+    "enfermagem": "https://www.vagas.com.br/vagas-de-enfermagem",
+}
 
 todos_dfs = []
 
-for url in urls:
-    print(f"Coletando: {url}")
+for area, url in urls.items():
+    print(f"Coletando: {area}")
     soup = buscar_vagas(url)
     vagas = extrair_vagas(soup)
     df = extrair_detalhes(vagas)
+    df["area"] = area  # adiciona coluna area
     todos_dfs.append(df)
 
 df_final = pd.concat(todos_dfs, ignore_index=True)
 print(df_final.shape)
-df_final.to_csv("../data/processed/VAGAS.csv", index=False, encoding="utf-8-sig", sep=";")
-print("Arquivo salvo!")
+
+df_final = pd.concat(todos_dfs, ignore_index=True)
+exportar_csv(df_final, "../data/raw/VAGAS.csv")
