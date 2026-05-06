@@ -1,9 +1,12 @@
+import os
 import requests 
 import pandas as pd
 from bs4 import BeautifulSoup
 from exporter import exportar_csv 
 
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_PATH = os.path.join(BASE_DIR, "data", "raw", "VAGAS.csv")
 
 def buscar_vagas(url):
     headers = {

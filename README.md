@@ -69,7 +69,7 @@ job-market-scraper/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/job-market-scraper.git
+git clone https://github.com/LeandroBispo90/job-market-scraper.git
 
 # Entre na pasta
 cd job-market-scraper

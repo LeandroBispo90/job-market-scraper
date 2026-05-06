@@ -1,5 +1,11 @@
+import os
 import pandas as pd
 from exporter import exportar_csv 
+
+
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_PATH = os.path.join(BASE_DIR, "data", "raw", "VAGAS.csv")
 
 def carregar_dados(caminho):
     df = pd.read_csv(caminho, sep=";")
@@ -24,14 +30,12 @@ def limpar_dados(df):
     return df_limpo
 
 # execução
-df = carregar_dados("../data/raw/VAGAS.csv")
+df = carregar_dados(RAW_PATH)
 print(f"Bruto: {df.shape}")
 
 df_limpo = limpar_dados(df)
 print(f"Limpo: {df_limpo.shape}")
 
-df_limpo.to_csv("../data/processed/vagas_limpo.csv", index=False, encoding="utf-8-sig", sep=";")
+PROCESSED_PATH = os.path.join(BASE_DIR, "data", "processed", "vagas_limpo.csv")
+exportar_csv(df_limpo, PROCESSED_PATH)
 print(f"Total de vagas após limpeza: {len(df_limpo)}")
-
-df_limpo = limpar_dados(df)
-exportar_csv(df_limpo, "../data/processed/vagas_limpo.csv")

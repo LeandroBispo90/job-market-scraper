@@ -1,281 +1,329 @@
-﻿cargo;empresa;cidade;nivel;estado
-Analista de Dados;Confidencial;Salvador;Pleno;BA
-Analista de Dados Sênior;Grupo Nortearh;Belo Horizonte;Sênior;MG
-Analista de Dados  Jr;Confidencial;Betim;Júnior/Trainee;MG
-Analista de Dados (027180);Lyon Engenharia;São Luís;Pleno;MA
-Analista de Dados Pleno;Fundação São Francisco Xavier;Belo Horizonte;Pleno;MG
-Analista de Dados Júnior;Confidencial;São Paulo;Júnior/Trainee;SP
-Analista de Dados e Bi -Sênior;J&T Express;São João de Meriti;Sênior;RJ
-Analista de Dados Bi Pl;J&T Express;Serra;Pleno;ES
-Analista de Qualidade de Dados Pleno;J&T Express;Guarulhos;Júnior/Trainee;SP
-Analista de Dados Saúde e Odonto - Jr;SulAmérica;São Paulo;Júnior/Trainee;SP
-Analista Financeiro Sênior - Foco em Dados;ALLOS;Rio de Janeiro;Sênior;RJ
-Analista de Operações Jr (automatização/Dados) - Temporário;SulAmérica;São Paulo;Júnior/Trainee;SP
-Analista Sr - Qualidade (Gestão de Dados) - Corporativo RJ;Rede D'Or;Rio de Janeiro;Sênior;RJ
-Analista Sr - Privacidade e Proteção de Dados – Corporativo RJ;Rede D'Or;Rio de Janeiro;Sênior;RJ
-Analista de Dados / Bi - Especialista (VAGA Extensiva para Pessoas com Deficiência);Concremat;Nova Lima;Pleno;MG
-Analista de Remuneração;Frescatto;Duque de Caxias;Auxiliar/Operacional;RJ
-Analista de Privacidade Senior;Confidencial;São Paulo;Sênior;SP
-Analista Administrativo;Talento Incluir;São Paulo;Júnior/Trainee;SP
-Analista Comercial Pl;Mineração Taboca S/A;Barueri;Pleno;SP
-Analista de Relacionamento;Confidencial;Localização não informada;Pleno;
-Analista de Produtos;CDL/BH;Belo Horizonte;Júnior/Trainee;MG
-Analista de Cobrança Júnior;Confidencial;São Paulo;Júnior/Trainee;SP
-Analista de Logística - Júnior;J&T Express;São João de Meriti;Júnior/Trainee;RJ
-Analista Comercial Jr;Vetnil;Louveira;Júnior/Trainee;SP
-Analista de Marketing Sr.;JOBCENTER DO BRASIL LTDA;São Bernardo do Campo;Sênior;SP
-Analista Sr Bp;Randstad RH;Araucária;Pleno;PR
-Analista de TI;J&T Express;Salvador;Júnior/Trainee;BA
-Analista Fiscal Pleno;Confidencial;Belo Horizonte;Pleno;MG
-Analista Contábil Jr;FFM;São Paulo;Júnior/Trainee;SP
-11195 - Analista de Implantação;Talent Group;São Paulo;Pleno;SP
-Analista Admnistrativo I;Ânima;Não informado;Júnior/Trainee;
-Analista Contábil;ADECCO;Manaus;Pleno;AM
-Analista de Suporte Sr.;Confidencial;Santa Bárbara d'Oeste;Sênior;SP
-Analista de Contabilidade Pl;Primetals Technologies;Belo Horizonte;Pleno;MG
-11194 - Analista de Implementação;Talent Group;São Paulo;Pleno;SP
-Analista de Manutenção;Grupo JCA;São Paulo;Júnior/Trainee;SP
-Analista de Logistica;Transpedrosa;Betim;Júnior/Trainee;MG
-Analista Vista Jr;Lyon Engenharia;Nova Lima;Júnior/Trainee;MG
-Analista Programador Pleno;Ciesp;São Paulo;Pleno;SP
-Engenheiro de Software;Confidencial;Localização não informada;Sênior;
-Engenheiro(a) de Software | Júnior, Pleno, Sênior e Especialista;XP Inc.;São Paulo;Sênior;SP
-Engenheiro de Automação;Confidencial;Limeira;Sênior;SP
-Engenheiro de Orçamentos Jr;Concremat;São Paulo;Júnior/Trainee;SP
-Técnico de Engenharia Clinica - Engenharia Clinica - Rio Barra;Rede D'Or;Rio de Janeiro;Técnico;RJ
-Técnico de Engenharia Clinica - Engenharia Clinica - Copa Dor;Rede D'Or;Rio de Janeiro;Técnico;RJ
-Técnico em Engenharia Clínica - Engenharia Clínica - Hospital Brasil;Rede D'Or;Santo André;Técnico;SP
-Técnico de Engenharia Clínica - Engenharia Clínica - Esperança Recife;Rede D'Or;Recife;Técnico;PE
-Professor de Engenharia de Computação;Fundação Salvador Arena;São Bernardo do Campo;Sênior;SP
-Engenheiro de Machine Learning;FF.Connection;Hortolândia;Sênior;SP
-Técnico(a) em Engenharia Clínica - Engenharia Clínica - Hospitais Rede D'Or;Rede D'Or;Brasília;Técnico;DF
-Engenheiro Civil Trainee;Concremat;São Paulo;Júnior/Trainee;SP
-Técnico em Engenharia Clínica - Engenharia Clínica - Hospital Brasil Mauá;Rede D'Or;Mauá;Técnico;SP
-Técnico Engenharia Clínica - Engenharia Clínica - Sl Anália Franco;Rede D'Or;São Paulo;Auxiliar/Operacional;SP
-Técnico(a) em Engenharia Clínica - Engenharia Clínica - Hospital DF Star (Expansão);Rede D'Or;Brasília;Técnico;DF
-Engenheiro de Inteligência Artificial (Ia);EDITORA GLOBO;São Paulo;Sênior;SP
-Analista Sr - Engenharia e Manutenção - Corporativo RJ;Rede D'Or;Rio de Janeiro;Sênior;RJ
-Analista Sr - Engenharia e Manutenção - Corporativo SP;Rede D'Or;São Paulo;Sênior;SP
-Estagiário(a) de Engenharia Química - Barra da Tijuca/RJ;White Martins;Rio de Janeiro;Estágio;RJ
-Engenheiro de Projetos (VAGA Extensiva para Pessoas);Concremat;Vitória;Pleno;ES
-Bolsista Doutor Engenharias – Projeto Inova Talentos / Marelli;Marelli Sistemas Automotivos;Lavras;Júnior/Trainee;MG
-Engenheiro de Pavimentação (VAGA Extensiva para Pessoas com Deficiência);Concremat;São Paulo;Pleno;SP
-Líder de Engenharia Clínica  - Manutenção Predial  - Hospital Yutaka Takeda.;Rede D'Or;Parauapebas;Auxiliar/Operacional;PA
-Engenheiro Técnico de Projeto (VAGA Extensiva para Pessoa Deficiência);Concremat;Barão de Cocais;Pleno;MG
-Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação;FI GROUP;Brasília;Estágio;DF
-Técnico em Equipamentos;MDR;João Pessoa;Técnico;PB
-Devops Sr/ Sre (Site Reliability Engineer);Allied;São Paulo;Sênior;SP
-11214 - Desenvolvedor de Sistemas (Wordpress) Pleno;Confidencial;Não informado;Pleno;
-11223 - Analista Desenvolvedor .net;Talent Group;Não informado;Pleno;
-11225 - Analista Desenvolvedor Fullstack .net + React;Talent Group;Não informado;Sênior;
-Analista Sistemas TI | Desenvolvedor Fullstack;AMAGGI;Cuiabá;Pleno;MT
-Especialista PO (Product Owner) + QA (Quality Assurance);Conspiração;Rio de Janeiro;Pleno;RJ
-11228 - Engenheiro de Dados Sr;Talent Group;Não informado;Sênior;
-Desenvolvedor Full Stack;Inspirali;Não informado;Pleno;
-Analista de Estratégia em Saúde - Sr;SulAmérica;São Paulo;Sênior;SP
-11200 - Arquiteto(a) de Soluções Pleno (pré-Vendas) - São Paulo/ SP;Talent Group;Barueri;Pleno;SP
-11199 - Arquiteto(a) de Soluções Pleno (pré-Vendas) - Rio de Janeiro/ RJ;Talent Group;Rio de Janeiro;Pleno;RJ
-11202 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - Fortaleza/ CE;Talent Group;Fortaleza;Sênior;CE
-11204 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - Porto Alegre/ RS;Talent Group;Porto Alegre;Sênior;RS
-11205 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - São Paulo/ SP;Talent Group;Barueri;Sênior;SP
-11203 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - Belo Horizonte/ MG;Talent Group;Belo Horizonte;Sênior;MG
-11198 - Arquiteto(a) de Soluções Pleno (pré-Vendas) - Goiânia/ GO;Talent Group;Goiânia;Pleno;GO
-Analista de Sistemas Sênior (TOTVS Protheus);Azevedo & Travassos S/A;São Paulo;Sênior;SP
-Analista de Marketing Pleno | Marketing;Confidencial;São Paulo;Pleno;SP
-Estagiário(a) de Marketing;Atex do Brasil;Belo Horizonte;Estágio;MG
-Gerente de Marketing;Confidencial;Não informado;Gerência;
-Coordenador (a) Marketing;HarperCollins Brasil;Rio de Janeiro;Supervisão/Coordenação;RJ
-Assistente de Marketing;ALLOS;Belo Horizonte;Auxiliar/Operacional;MG
-Coordenador(a) de Marketing;Grupo Fleury;Rio de Janeiro;Supervisão/Coordenação;RJ
-Coordenador de Marketing;Supermed;São Paulo;Supervisão/Coordenação;SP
-Supervisor de Marketing;Confidencial;São Paulo;Supervisão/Coordenação;SP
-Atendimento de Marketing;ZONT MARKETING;São Paulo;Júnior/Trainee;SP
-Especialista de Marketing;Confidencial;São Paulo;Sênior;SP
-Analista de Marketing;Inova Máquinas;Contagem;Pleno;MG
-Analista de Marketing Jr.;PROMOFARMA;São Paulo;Júnior/Trainee;SP
-Analista de Marketing Pleno;Icatu Seguros;Rio de Janeiro;Pleno;RJ
-Analista Marketing Sr - Marketing - Onco Cardial (Matriz);Rede D'Or;São Paulo;Sênior;SP
-Especialista de Marketing - Temporário;Robert Half;São Paulo;Sênior;SP
-Analista de Marketing Digital Junior;Hospital IGESP;São Paulo;Júnior/Trainee;SP
-Analista de Mkt Jr - Eventos;Inspirali;São Paulo;Júnior/Trainee;SP
-Analista de Trade Marketing Sênior;OSKLEN;Rio de Janeiro;Sênior;RJ
-Analista Marketing Digital Pl;Vetnil;Louveira;Pleno;SP
-Analista de Marketing Produto;LUKSCOLOR TINTAS;São Paulo;Júnior/Trainee;SP
-Assistente de Trade Marketing;LUKSCOLOR TINTAS;São Paulo;Júnior/Trainee;SP
-Analista de Marketing Corporativo Júnior;ALLOS;Rio de Janeiro;Júnior/Trainee;RJ
-Gerente de Trade Marketing;Randstad Brasil;São Paulo;Gerência;SP
-Analista de Marketing Digital;Confidencial;Não informado;Sênior;
-Estágio em Trade Marketing;Wella Company;São Paulo;Estágio;SP
-Assistente de Marketing de Influência;Vitabe Group;Valinhos;Auxiliar/Operacional;SP
-Analista Marketing Produto Junior;LEGRAND BRASIL LTDA;São Paulo;Júnior/Trainee;SP
-Analista Sênior de Marketing e Produto;Suvinil;São Paulo;Sênior;SP
-Especialista de Comunicação e Marketing - Conteúdo;Hospital São Camilo;São Paulo;Sênior;SP
-Analista Jr - Marketing - IDOR RJ;Rede D'Or;Rio de Janeiro;Júnior/Trainee;RJ
-Analista Senior de Trade Marketing Categoria;Wella Company;São Paulo;Sênior;SP
-Analista de Marketing (Administrativo - Suprimentos);LUKSCOLOR TINTAS;São Paulo;Júnior/Trainee;SP
-Analista de Marketing Digital e CRM (Pleno);Graça Artes Gráfica;Rio de Janeiro;Pleno;RJ
-Analista Administrativo Junior - Comunicação e Marketing;Instituto Cacau Show;Itapevi;Pleno;SP
-Analista de Marketing | Social Media;Talent Spotter;Sorocaba;Sênior;SP
-Analista de Marketing Pleno – Trade & Branding;Prometeon Tyre Group;Santo André;Sênior;SP
-Analista de Marketing Junior (Especialista em Cores);Suvinil;Taboão da Serra;Júnior/Trainee;SP
-Assistente Comercial de Operações Varejo;JOBCENTER DO BRASIL LTDA;São Paulo;Auxiliar/Operacional;SP
-Coordenador (a) Comercial de Vendas;Aventura;São Paulo;Supervisão/Coordenação;SP
-Diretor Comercial;Confidencial;Localização não informada;Diretoria;
-Gestor Comercial Sr;SANTHER - FABRICA DE PAPEL SANTA THEREZINHA;Rio de Janeiro;Sênior;RJ
-Gerente Comercial;Confidencial;Localização não informada;Gerência;
-Gestor Comercial Pl;SANTHER - FABRICA DE PAPEL SANTA THEREZINHA;Salvador;Pleno;BA
-Auxiliar Comercial;Inspirali;Cubatão;Auxiliar/Operacional;SP
-Analista Comercial;Lef Pisos e Revestimentos S.A;Piracicaba;Júnior/Trainee;SP
-Supervisor Comercial;Grupo JCA;Belo Horizonte;Supervisão/Coordenação;MG
-Engenheiro - Comercial;Confidencial;Rio de Janeiro;Pleno;RJ
-Estágio Comercial;Grupo Promex Mais;São Paulo;Estágio;SP
-Atendimento/comercial;SICOOB;São Paulo;Auxiliar/Operacional;SP
-Consultor Comercial;Confidencial;Belo Horizonte;Técnico;MG
-Consultor Comercial Pl;LEGRAND BRASIL LTDA;São Paulo;Júnior/Trainee;SP
-Analista Comercial Junior;ArcelorMittal;São Paulo;Júnior/Trainee;SP
-11215 - Executiva(o) Comercial;Talent Group;São Paulo;Pleno;SP
-Atendente Comercial;Grupo Águas do Brasil;Campos dos Goytacazes;Auxiliar/Operacional;RJ
-Analista Comercial Pleno;Grupo JCA;São Paulo;Pleno;SP
-Supervisor Administrativo Comercial - Backoffice Comercial;BR Talent;São Paulo;Supervisão/Coordenação;SP
-Pessoa Coordenadora Comercial;ALLOS;Belém;Supervisão/Coordenação;PA
-Desenvolvedor Comercial Alcoólicos;Coca-Cola FEMSA;Betim;Júnior/Trainee;MG
-Assistente de Parcerias (Comercial);JOBCENTER DO BRASIL LTDA;São Paulo;Auxiliar/Operacional;SP
-Coordenador(a) Comercial Atendimento;Aventura;São Paulo;Supervisão/Coordenação;SP
-Tecnico Comercial de Seguros II;PAMCARY;São Paulo;Auxiliar/Operacional;SP
-Representante Comercial Imobiliário - Júnior;NV Imob;São Paulo;Auxiliar/Operacional;SP
-11193 - Consultor Comercial (Hunter);Talent Group;São Paulo;Pleno;SP
-Coordenador de Inteligencia Comercial;União Química Farmacêutica Nacional S/A;São Paulo;Supervisão/Coordenação;SP
-Auxiliar / Assistente Comercial;Manager Gestão Condominial;São Paulo;Auxiliar/Operacional;SP
-Vendedor Externo de Varejo;Confidencial;Vitória;Pleno;ES
-Auxiliar Comercial Cac;Confidencial;Blumenau;Auxiliar/Operacional;SC
-Gerente de Controladoria e Finanças;Reggiani Hunting;Belo Horizonte;Gerência;MG
-Coordenador de Controladoria e Contabilidade;The Adecco Group;São Paulo;Supervisão/Coordenação;SP
-Assistente de Finanças e Contabilidade;Fundação Getulio Vargas;Rio de Janeiro;Auxiliar/Operacional;RJ
-Gerente de Controladoria e Finanças (Controller);Grupo Valure;Brasília;Gerência;DF
-Analista Fiscal;Confidencial;Rio de Janeiro;Pleno;RJ
-Gerente Fiscal;Confidencial;Não informado;Gerência;
-Analista Fiscal Júnior;AMAGGI;Cuiabá;Júnior/Trainee;MT
-Gerente de Controladoria;Confidencial;Não informado;Gerência;
-Diretor/a de Controladoria;Confidencial;São Paulo;Diretoria;SP
-Analista de Controladoria Pleno;Tate and Lyle;São Paulo;Pleno;SP
-Analista Financeiro Júnior;Confidencial;Rio de Janeiro;Júnior/Trainee;RJ
-Assistente Financeiro;Fundação Educacional Lucas Machado;Belo Horizonte;Sênior;MG
-Estágio Fiscal;ArcelorMittal Gonvarri;Hortolândia;Estágio;SP
-Trainee - Financeiro;Alliança Recursos Humanos;Caçapava;Júnior/Trainee;SP
-Analista de Contabilidade Sênior;Confidencial;Rio de Janeiro;Sênior;RJ
-Analista  Fiscal;SILVEIRA SOARES CONTABILIDADE;Novo Hamburgo;Técnico;RS
-Fiscal de Loja;Grupo DPSP;Rio de Janeiro;Auxiliar/Operacional;RJ
-Analista Financeiro (027257);Lyon Engenharia;Parauapebas;Sênior;PA
-Coordenador Financeiro;Abapa - Associação Baiana dos Produtores de Algodão;Luís Eduardo Magalhães;Supervisão/Coordenação;BA
-Analista Fiscal Jr;Confidencial;Curitiba;Auxiliar/Operacional;PR
-Estagiário (Financeiro);OSKLEN;Rio de Janeiro;Estágio;RJ
-Analista de Controladoria Sênior;Confidencial;Fortaleza;Sênior;CE
-Fiscal de Campo V 027230;Lyon Engenharia;Canaã dos Carajás;Técnico;PA
-Especialista de Controladoria;Abapa - Associação Baiana dos Produtores de Algodão;Luís Eduardo Magalhães;Sênior;BA
-Especialista em Controladoria;Confidencial;Rio de Janeiro;Supervisão/Coordenação;RJ
-Analista Financeiro;J&T Express;Salvador;Sênior;BA
-Analista Fiscal Sênior;Proativa RH;Taboão da Serra;Sênior;SP
-Assistente Fiscal;Bom Futuro;Cuiabá;Júnior/Trainee;MT
-Analista de Contabilidade Sr;UNIÃO QUÍMICA;Valparaíso de Goiás;Sênior;GO
-Analista de Controladoria;GL events Brasil;Rio de Janeiro;Pleno;RJ
-Analista de Logística | Logistica;GWM;Iracemápolis;Pleno;SP
-11158 - Gerente de Logística;Talent Group;Manaus;Gerência;AM
-Logística | Planejamento de Vendas e Logistica;GWM;Iracemápolis;Júnior/Trainee;SP
-Auxiliar de Logística;Confidencial;Cajamar;Auxiliar/Operacional;SP
-Assistente Logistico;Soulan Recursos Humanos;Várzea Grande;Técnico;MT
-Analista Logistico;Soulan Recursos Humanos;Várzea Grande;Pleno;MT
-Assistente de Logística;Confidencial;Rio de Janeiro;Auxiliar/Operacional;RJ
-Analista de Logística Jr;Mineração Taboca S/A;Barueri;Júnior/Trainee;SP
-Assistente Logística;COPLACANA;Pirajuba;Técnico;MG
-Analista de Logística Junior;Hydro;Tubarão;Júnior/Trainee;SC
-Auxiliar Logístico I;Grupo SERES;Jundiaí;Auxiliar/Operacional;SP
-Auxiliar de Logística I;Proativa RH;São Paulo;Auxiliar/Operacional;SP
-Operador Logistico;G&B e MTO - Distribuidora Autopeças;Guarulhos;Auxiliar/Operacional;SP
-Ajudante de Logística;A.C.Camargo Cancer Center;São Paulo;Auxiliar/Operacional;SP
-Auxiliar de Logistica;JOBCENTER DO BRASIL LTDA;São Paulo;Auxiliar/Operacional;SP
-Analista de Logística;Confidencial;Jundiaí;Júnior/Trainee;SP
-Estágio Logística;LEGRAND BRASIL LTDA;Guarulhos;Estágio;SP
-Supervisor de Logística;Marelli do Brasil I Divisão Interiores;Resende;Supervisão/Coordenação;RJ
-Estágio RH;Vogler Ingredients;São Bernardo do Campo;Estágio;SP
-Estagiário de RH;Amaggi;Matupá;Estágio;MT
-Analista de Recursos Humanos Junior;Komatsu;Conceição do Mato Dentro;Júnior/Trainee;MG
-Analista de RH Sr;Grupo Expert;Campinas;Sênior;SP
-Estágio em Recursos Humanos;Huawei;São Paulo;Estágio;SP
-Aprendiz RH;Granol Agrícola;Bebedouro;Estágio;SP
-Analista de Recursos Humanos Sênior;helloo;São Paulo;Sênior;SP
-Analista de Recursos Humanos;XCMG Brasil Indústria;Canaã dos Carajás;Júnior/Trainee;PA
-Estágio Recursos Humanos;Grupo Nolasco;Magé;Estágio;RJ
-RH Generalista;The Adecco Group;São Bernardo do Campo;Pleno;SP
-Estágio em RH;Marelli do Brasil I Divisão Interiores;Resende;Estágio;RJ
-Analista de Recursos Humanos Pleno;DOME Serviços Integrados;São João da Barra;Pleno;RJ
-Técnico Recursos Humanos;Concremat;Barão de Cocais;Técnico;MG
-Supervisor de RH;Confidencial;Brasília;Supervisão/Coordenação;DF
-Assistente de Recursos Humanos;Lightera LatAm S.A;Curitiba;Auxiliar/Operacional;PR
-Analista de RH Pleno;Confidencial;Serra;Pleno;ES
-Analista de Recursos Humanos Pl;Grupo JCA;Niterói;Pleno;RJ
-Analista de RH Jr;The Adecco Group;São José dos Campos;Júnior/Trainee;SP
-Auxiliar de Recursos Humanos;ENGECORPS;Barueri;Auxiliar/Operacional;SP
-Estagio em Recursos Humanos;Belgo Arames;Sumaré;Estágio;SP
-Analista de RH Pl/Sr;Confidencial;Hortolândia;Pleno;SP
-Analista de Recursos Humanos Jr;Grupo Avante;Belo Horizonte;Júnior/Trainee;MG
-Estagiário em Recursos Humanos;Confidencial;Itapevi;Estágio;SP
-Estagiário(a) Recursos Humanos;ZF AUTOMOTIVE;São Bernardo do Campo;Estágio;SP
-Analista de Recursos Humanos II;Oncoclínicas&Co;Nova Lima;Pleno;MG
-Analista de Recursos Humanos Jr.;Fundepag;São Paulo;Júnior/Trainee;SP
-Analista de Recursos Humanos Sr;Bom Futuro;Cuiabá;Sênior;MT
-Auxiliar de RH;Confidencial;São Bernardo do Campo;Auxiliar/Operacional;SP
-Especialista de Recursos Humanos;The Adecco Group;São Paulo;Sênior;SP
-Analista de Recursos Humanos Júnior;Grupo Nortearh;Pedro Leopoldo;Técnico;MG
-Analista de RH;Di Blasi, Parente & Associados;Rio de Janeiro;Júnior/Trainee;RJ
-Assistente Adm - RH;Vogler Ingredients;São Bernardo do Campo;Júnior/Trainee;SP
-Auxiliar Administrativo – RH;Hospital do Rocio;Campo Largo;Auxiliar/Operacional;PR
-Analista de Recursos Humanos – Remuneração;Parceria Consultoria;Rio de Janeiro;Sênior;RJ
-Assistente Administrativo - RH;Assigna;Mucuri;Júnior/Trainee;BA
-Analista de Desenvolvimento em RH;Grupo SERES;Rio de Janeiro;Pleno;RJ
-Analista de Recursos Humanos Pleno - Generalista;ALLOS;São Paulo;Júnior/Trainee;SP
-Gerente Administrativo - Operações;EmpregaSaúde;Vitória;Gerência;ES
-Gerente de Gente & Gestão;Tele Rio;Rio de Janeiro;Gerência;RJ
-Gerente Administrativo Financeiro;Confidencial;Localização não informada;Gerência;
-Gerente de Compras (Gestão de Contratos);Vallourec Soluções Tubulares;Belo Horizonte;Gerência;MG
-Analista Administrativo (Gestão de Ativos Imobiliários);M.Roscoe Engenharia e Construções;Belo Horizonte;Pleno;MG
-Gerente de Projetos;Confidencial;Localização não informada;Gerência;
-Gerente de Tesouraria;Confidencial;Localização não informada;Gerência;
-Auxiliar Administrativo;Hospital do Rocio;Campo Largo;Auxiliar/Operacional;PR
-Assistente Administrativo;Confidencial;Localização não informada;Auxiliar/Operacional;
-Gerente de Facilities;Confidencial;São Paulo;Gerência;SP
-Analista Administrativo I;Grupo Fleury;Vila Velha;Júnior/Trainee;ES
-Auxiliar Administrativo Pl;Grupo Protege;Cascavel;Pleno;PR
-Gerente de Processos;Confidencial;Localização não informada;Gerência;
-Gerente de Obras;Confidencial;Localização não informada;Gerência;
-Gerente de Produção;Confidencial;Localização não informada;Gerência;
-Gerente de EHS;Confidencial;Localização não informada;Gerência;
-Estágio Administrativo;LEGRAND BRASIL LTDA;São Paulo;Estágio;SP
-Gerente Predial;Manager Gestão Condominial;São Paulo;Gerência;SP
-Gerente de Compliance;Confidencial;Localização não informada;Gerência;
-Gerente de Expansão;Confidencial;Não informado;Gerência;
-Gerente de Manutenção;Confidencial;Localização não informada;Gerência;
-Gerente de Infraestrutura;Confidencial;Localização não informada;Gerência;
-Analista Administrativo Sênior;Tradimaq SA;Ouro Branco;Sênior;MG
-Técnico de Enfermagem;EmpregaSaúde;São Paulo;Técnico;SP
-Técnico(a) de Enfermagem;Gupo Soulan RH;São Paulo;Técnico;SP
-Auxiliar de Enfermagem;Hospital São Camilo;São Paulo;Técnico;SP
-Estágio em Enfermagem;Oncoclínicas&Co;Salvador;Estágio;BA
-Acadêmico em Enfermagem;Hospital da Baleia;Belo Horizonte;Estágio;MG
-Estagiário(a) de Enfermagem;Belgo Arames;Itaúna;Estágio;MG
-Gerente de Enfermagem -  Gerência de Enfermagem - Macaé D'Or;Rede D'Or;Macaé;Gerência;RJ
-Auxiliar de Enfermagem - Gerência de Enfermagem - Hospital Santa Helena;Rede D'Or;Brasília;Auxiliar/Operacional;DF
-Técnico de Enfermagem do Trabalho;Abertta Saúde;Itatiaiuçu;Técnico;MG
-Auxiliar de Enfermagem - Sumaré;Grupo Fleury;São Paulo;Técnico;SP
-Supervisor (a) de Enfermagem - CME;Confidencial;Belo Horizonte;Supervisão/Coordenação;MG
-Estágio de Enfermagem - Proncor;Rede D'Or;Campo Grande;Estágio;MS
-Auxiliar de Enfermagem - Labs A+;GRUPO FLEURY;Localização não informada;Técnico;
-Auxiliar de Enfermagem - Coleta;Grupo Fleury;Belém;Técnico;PA
-Técnico de Enfermagem (UTI);Austa Hospital;São José do Rio Preto;Técnico;SP
-Auxiliar de Enfermagem III - Campinas;Grupo Fleury;Campinas;Técnico;SP
-Auxiliar de Enfermagem - Emergência;Austa Hospital;São José do Rio Preto;Auxiliar/Operacional;SP
-Técnico (a) de Enfermagem - Endoscopia;Confidencial;São Paulo;Técnico;SP
-Técnico de Enfermagem Hemodiálise;Hospital da Baleia;Belo Horizonte;Técnico;MG
-Coordenador de Enfermagem - CCIH;EmpregaSaúde;Maringá;Supervisão/Coordenação;PR
-Auxiliar de Enfermagem - Moema;Grupo Fleury - Pretti;São Paulo;Técnico;SP
-Técnico de Enfermagem de UTI;Hospital Sírio-Libanês;São Paulo;Técnico;SP
-Técnico de Enfermagem I - Hospitais;Grupo Fleury;Presidente Prudente;Técnico;SP
+﻿cargo;empresa;cidade;nivel;area;estado
+Analista de Dados (027180);Lyon Engenharia;São Luís;Pleno;Analista De Dados;MA
+Analista de Dados;Zubale;Não informado;Júnior/Trainee;Analista De Dados;
+Analista de Dados  Jr;Confidencial;Betim;Júnior/Trainee;Analista De Dados;MG
+Analista de Dados Pleno;Fundação São Francisco Xavier;Belo Horizonte;Pleno;Analista De Dados;MG
+Analista de Dados Sênior;Grupo Nortearh;Belo Horizonte;Sênior;Analista De Dados;MG
+Analista de Dados e Bi -Sênior;J&T Express;São João de Meriti;Sênior;Analista De Dados;RJ
+Analista de Dados Bi Pl;J&T Express;Serra;Pleno;Analista De Dados;ES
+Analista de Qualidade de Dados Pleno;J&T Express;Guarulhos;Júnior/Trainee;Analista De Dados;SP
+Analista de Dados Saúde e Odonto - Jr;SulAmérica;São Paulo;Júnior/Trainee;Analista De Dados;SP
+Analista Financeiro Sênior - Foco em Dados;ALLOS;Rio de Janeiro;Sênior;Analista De Dados;RJ
+Analista de Dados Jr | Grupo Fasano;Hospitalidade e Gastronomia;São Paulo;Júnior/Trainee;Analista De Dados;SP
+Analista de Operações Jr (automatização/Dados) - Temporário;SulAmérica;São Paulo;Júnior/Trainee;Analista De Dados;SP
+Pessoa Analista Infraestrutura / Função DBA Oracle - Sênior  -  Tecnologia da Informação;Grupo Águas do Brasil;Niterói;Sênior;Analista De Dados;RJ
+Analista Sr - Qualidade (Gestão de Dados) - Corporativo RJ;Rede D'Or;Rio de Janeiro;Sênior;Analista De Dados;RJ
+Analista Sr - Privacidade e Proteção de Dados – Corporativo RJ;Rede D'Or;Rio de Janeiro;Sênior;Analista De Dados;RJ
+Analista de RH Pl (Dados) - Regional Zona Sul/RJ;Rede D'Or;Rio de Janeiro;Pleno;Analista De Dados;RJ
+Analista de Dados / Bi - Especialista (VAGA Extensiva para Pessoas com Deficiência);Concremat;Nova Lima;Pleno;Analista De Dados;MG
+Analista de Remuneração;Frescatto;Duque de Caxias;Auxiliar/Operacional;Analista De Dados;RJ
+Analista de Privacidade Senior;Confidencial;São Paulo;Sênior;Analista De Dados;SP
+Analista Administrativo;Talento Incluir;São Paulo;Júnior/Trainee;Analista De Dados;SP
+Analista Comercial Pl;Mineração Taboca S/A;Barueri;Pleno;Analista De Dados;SP
+Analista de Compras Jr;Centro Médico Pastore;Rio de Janeiro;Auxiliar/Operacional;Analista De Dados;RJ
+Analista de Relacionamento;Confidencial;Localização não informada;Pleno;Analista De Dados;
+Analista de Produtos;CDL/BH;Belo Horizonte;Júnior/Trainee;Analista De Dados;MG
+Analista de Cobrança Júnior;Confidencial;São Paulo;Júnior/Trainee;Analista De Dados;SP
+Analista de Inflamabilidade;Alliança Recursos Humanos;Localização não informada;Júnior/Trainee;Analista De Dados;
+Analista de PCP;Grupo Nortearh;Sete Lagoas;Pleno;Analista De Dados;MG
+Analista de Logística - Júnior;J&T Express;São João de Meriti;Júnior/Trainee;Analista De Dados;RJ
+Analista Comercial Jr;Vetnil;Louveira;Júnior/Trainee;Analista De Dados;SP
+Analista Laboratorio I;bp bioenergy;Pedro Afonso;Auxiliar/Operacional;Analista De Dados;TO
+Analista de Marketing Sr.;JOBCENTER DO BRASIL LTDA;São Bernardo do Campo;Sênior;Analista De Dados;SP
+Analista Sr Bp;Randstad RH;Araucária;Pleno;Analista De Dados;PR
+Analista de TI;J&T Express;Salvador;Júnior/Trainee;Analista De Dados;BA
+Analista Fiscal Pleno;Confidencial;Belo Horizonte;Pleno;Analista De Dados;MG
+11195 - Analista de Implantação;Talent Group;São Paulo;Pleno;Analista De Dados;SP
+Analista Admnistrativo I;Ânima;Não informado;Júnior/Trainee;Analista De Dados;
+Analista Contábil;ADECCO;Manaus;Pleno;Analista De Dados;AM
+Analista de Suporte Sr.;Confidencial;Santa Bárbara d'Oeste;Sênior;Analista De Dados;SP
+Analista de Contabilidade Pl;Primetals Technologies;Belo Horizonte;Pleno;Analista De Dados;MG
+Analista Financeiro Pl;UNIÃO QUÍMICA;Guarulhos;Pleno;Analista De Dados;SP
+Engenheiro de Software;Confidential;Localização não informada;Sênior;Engenheiro De Software;
+Engenheiro(a) de Software | Júnior, Pleno, Sênior e Especialista;XP Inc.;São Paulo;Sênior;Engenheiro De Software;SP
+Engenheiro de Automação;Confidential;Limeira;Sênior;Engenheiro De Software;SP
+Engenheiro de Orçamentos Jr;Concremat;São Paulo;Júnior/Trainee;Engenheiro De Software;SP
+Técnico de Engenharia Clinica - Engenharia Clinica - Rio Barra;Rede D'Or;Rio de Janeiro;Técnico;Engenheiro De Software;RJ
+Técnico de Engenharia Clinica - Engenharia Clinica - Copa Dor;Rede D'Or;Rio de Janeiro;Técnico;Engenheiro De Software;RJ
+Técnico em Engenharia Clínica - Engenharia Clínica - Hospital Brasil;Rede D'Or;Santo André;Técnico;Engenheiro De Software;SP
+Tecnico de Engenharia Clinica - Engenharia Clinica - Jutta Batista;Rede D'Or;Rio de Janeiro;Auxiliar/Operacional;Engenheiro De Software;RJ
+Técnico de Engenharia Clínica - Engenharia Clínica - Esperança Recife;Rede D'Or;Recife;Técnico;Engenheiro De Software;PE
+Professor de Engenharia de Computação;Fundação Salvador Arena;São Bernardo do Campo;Sênior;Engenheiro De Software;SP
+Engenheiro de Machine Learning;FF.Connection;Hortolândia;Sênior;Engenheiro De Software;SP
+Técnico(a) em Engenharia Clínica - Engenharia Clínica - Hospitais Rede D'Or;Rede D'Or;Brasília;Técnico;Engenheiro De Software;DF
+Engenheiro Civil Trainee;Concremat;São Paulo;Júnior/Trainee;Engenheiro De Software;SP
+Técnico em Engenharia Clínica - Engenharia Clínica - Hospital Brasil Mauá;Rede D'Or;Mauá;Técnico;Engenheiro De Software;SP
+Técnico Engenharia Clínica - Engenharia Clínica - Sl Anália Franco;Rede D'Or;São Paulo;Auxiliar/Operacional;Engenheiro De Software;SP
+Técnico(a) em Engenharia Clínica - Engenharia Clínica - Hospital DF Star (Expansão);Rede D'Or;Brasília;Técnico;Engenheiro De Software;DF
+Engenheiro de Inteligência Artificial (Ia);EDITORA GLOBO;São Paulo;Sênior;Engenheiro De Software;SP
+Analista Sr - Engenharia e Manutenção - Corporativo RJ;Rede D'Or;Rio de Janeiro;Sênior;Engenheiro De Software;RJ
+Analista Sr - Engenharia e Manutenção - Corporativo SP;Rede D'Or;São Paulo;Sênior;Engenheiro De Software;SP
+Estagiário(a) de Engenharia Química - Barra da Tijuca/RJ;White Martins;Rio de Janeiro;Estágio;Engenheiro De Software;RJ
+Engenheiro de Projetos (VAGA Extensiva para Pessoas);Concremat;Vitória;Pleno;Engenheiro De Software;ES
+Bolsista Doutor Engenharias – Projeto Inova Talentos / Marelli;Marelli Sistemas Automotivos;Lavras;Júnior/Trainee;Engenheiro De Software;MG
+Engenheiro de Pavimentação (VAGA Extensiva para Pessoas com Deficiência);Concremat;São Paulo;Pleno;Engenheiro De Software;SP
+Líder de Engenharia Clínica  - Manutenção Predial  - Hospital Yutaka Takeda.;Rede D'Or;Parauapebas;Auxiliar/Operacional;Engenheiro De Software;PA
+Engenheiro Técnico de Projeto (VAGA Extensiva para Pessoa Deficiência);Concremat;Barão de Cocais;Pleno;Engenheiro De Software;MG
+Estágio (Engenharia da Computação, Análise e Desenvolvimento de Sistemas, TI  Ou Sistemas de Informação;FI GROUP;Brasília;Estágio;Engenheiro De Software;DF
+Técnico em Equipamentos;MDR;João Pessoa;Técnico;Engenheiro De Software;PB
+Devops Sr/ Sre (Site Reliability Engineer);Allied;São Paulo;Sênior;Devops;SP
+11225 - Analista Desenvolvedor Fullstack .net + React;Talent Group;Não informado;Sênior;Devops;
+11223 - Analista Desenvolvedor .net;Talent Group;Não informado;Pleno;Devops;
+Analista Sistemas TI | Desenvolvedor Fullstack;AMAGGI;Cuiabá;Pleno;Devops;MT
+Analista de Desenvolvimento de Sistemas Sênior - Dynamics 365;Sinaf Seguros;Rio de Janeiro;Sênior;Devops;RJ
+Especialista PO (Product Owner) + QA (Quality Assurance);Conspiração;Rio de Janeiro;Pleno;Devops;RJ
+11228 - Engenheiro de Dados Sr;Talent Group;Não informado;Sênior;Devops;
+Desenvolvedor Full Stack;Inspirali;Não informado;Pleno;Devops;
+Analista de Estratégia em Saúde - Sr;SulAmérica;São Paulo;Sênior;Devops;SP
+11202 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - Fortaleza/ CE;Talent Group;Fortaleza;Sênior;Devops;CE
+11203 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - Belo Horizonte/ MG;Talent Group;Belo Horizonte;Sênior;Devops;MG
+11198 - Arquiteto(a) de Soluções Pleno (pré-Vendas) - Goiânia/ GO;Talent Group;Goiânia;Pleno;Devops;GO
+11200 - Arquiteto(a) de Soluções Pleno (pré-Vendas) - São Paulo/ SP;Talent Group;Barueri;Pleno;Devops;SP
+11204 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - Porto Alegre/ RS;Talent Group;Porto Alegre;Sênior;Devops;RS
+11205 - Arquiteto(a) de Soluções Sênior (pré-Vendas) - São Paulo/ SP;Talent Group;Barueri;Sênior;Devops;SP
+11199 - Arquiteto(a) de Soluções Pleno (pré-Vendas) - Rio de Janeiro/ RJ;Talent Group;Rio de Janeiro;Pleno;Devops;RJ
+Analista de Sistemas Sênior (TOTVS Protheus);Azevedo & Travassos S/A;São Paulo;Sênior;Devops;SP
+Analista de Marketing Pleno | Marketing;Confidencial;São Paulo;Pleno;Marketing;SP
+Coordenador (a) Marketing;HarperCollins Brasil;Rio de Janeiro;Supervisão/Coordenação;Marketing;RJ
+Assistente de Marketing;ALLOS;Belo Horizonte;Auxiliar/Operacional;Marketing;MG
+Estagiário(a) de Marketing;Atex do Brasil;Belo Horizonte;Estágio;Marketing;MG
+Gerente de Marketing;Confidencial;Não informado;Gerência;Marketing;
+Coordenador(a) de Marketing;Grupo Fleury;Rio de Janeiro;Supervisão/Coordenação;Marketing;RJ
+Coordenador de Marketing;Supermed;São Paulo;Supervisão/Coordenação;Marketing;SP
+Supervisor de Marketing;Confidencial;São Paulo;Supervisão/Coordenação;Marketing;SP
+Analista de Marketing;Inova Máquinas;Contagem;Pleno;Marketing;MG
+Especialista de Marketing;Confidencial;São Paulo;Sênior;Marketing;SP
+Assistente de Marketing;Cema Hospital Especializado;São Paulo;Auxiliar/Operacional;Marketing;SP
+Analista de Marketing Jr.;PROMOFARMA;São Paulo;Júnior/Trainee;Marketing;SP
+Atendimento de Marketing;ZONT MARKETING;São Paulo;Júnior/Trainee;Marketing;SP
+Analista de Marketing Pleno;Icatu Seguros;Rio de Janeiro;Pleno;Marketing;RJ
+Assistente de Marketing;Confidencial;Belo Horizonte;Júnior/Trainee;Marketing;MG
+Analista de Marketing Sênior;Pacaembu Construtora;São Paulo;Sênior;Marketing;SP
+Analista de Marketing;Graça Artes Gráfica;Rio de Janeiro;Pleno;Marketing;RJ
+Assistente de Marketing;JOBCENTER DO BRASIL LTDA;São Paulo;Júnior/Trainee;Marketing;SP
+Analista de Marketing;Maria Bussade Dermatologia;São Paulo;Júnior/Trainee;Marketing;SP
+Analista Marketing Sr - Marketing - Onco Cardial (Matriz);Rede D'Or;São Paulo;Sênior;Marketing;SP
+Analista de Mkt Jr - Eventos;Inspirali;São Paulo;Júnior/Trainee;Marketing;SP
+Analista de Trade Marketing Sênior;OSKLEN;Rio de Janeiro;Sênior;Marketing;RJ
+Especialista de Marketing - Temporário;Robert Half;São Paulo;Sênior;Marketing;SP
+Analista de Marketing Digital Junior;Hospital IGESP;São Paulo;Júnior/Trainee;Marketing;SP
+Analista de Marketing Digital;Confidencial;Não informado;Sênior;Marketing;
+Gerente de Trade Marketing;Randstad Brasil;São Paulo;Gerência;Marketing;SP
+Analista de Marketing Corporativo Júnior;ALLOS;Rio de Janeiro;Júnior/Trainee;Marketing;RJ
+Assistente de Trade Marketing;The Adecco Group;Não informado;Auxiliar/Operacional;Marketing;
+Estágio em Trade Marketing;Wella Company;São Paulo;Estágio;Marketing;SP
+Assistente de Marketing de Influência;Vitabe Group;Valinhos;Auxiliar/Operacional;Marketing;SP
+Analista Marketing Produto Junior;LEGRAND BRASIL LTDA;São Paulo;Júnior/Trainee;Marketing;SP
+Analista de Marketing Produto;LUKSCOLOR TINTAS;São Paulo;Júnior/Trainee;Marketing;SP
+Assistente de Trade Marketing;LUKSCOLOR TINTAS;São Paulo;Júnior/Trainee;Marketing;SP
+Analista Marketing Digital Pl;Vetnil;Louveira;Pleno;Marketing;SP
+Analista de Marketing Equinos Pl;Vetnil;Louveira;Pleno;Marketing;SP
+Analista de Marketing & Comercial;IMM;São Paulo;Pleno;Marketing;SP
+Especialista de Comunicação e Marketing - Conteúdo;Hospital São Camilo;São Paulo;Sênior;Marketing;SP
+Analista de Marketing | Social Media;Talent Spotter;Sorocaba;Sênior;Marketing;SP
+Analista Jr - Marketing - IDOR RJ;Rede D'Or;Rio de Janeiro;Júnior/Trainee;Marketing;RJ
+Assistente Comercial de Operações Varejo;JOBCENTER DO BRASIL LTDA;São Paulo;Auxiliar/Operacional;Vendas;SP
+Coordenador (a) Comercial de Vendas;Aventura;São Paulo;Supervisão/Coordenação;Vendas;SP
+Consultor Comercial de Vendas;EssilorLuxottica;Recife;Júnior/Trainee;Vendas;PE
+Diretor Comercial;Confidencial;Localização não informada;Diretoria;Vendas;
+Gestor Comercial Pl;SANTHER - FABRICA DE PAPEL SANTA THEREZINHA;Salvador;Pleno;Vendas;BA
+Analista Comercial;Lef Pisos e Revestimentos S.A;Piracicaba;Júnior/Trainee;Vendas;SP
+Gerente Comercial;Confidencial;Localização não informada;Gerência;Vendas;
+Gestor Comercial Sr;SANTHER - FABRICA DE PAPEL SANTA THEREZINHA;Rio de Janeiro;Sênior;Vendas;RJ
+Consultor Comercial;Confidencial;Belo Horizonte;Técnico;Vendas;MG
+Supervisor Comercial;Grupo JCA;Belo Horizonte;Supervisão/Coordenação;Vendas;MG
+Atendimento/comercial;SICOOB;São Paulo;Auxiliar/Operacional;Vendas;SP
+Estágio Comercial;Grupo Promex Mais;São Paulo;Estágio;Vendas;SP
+Consultor Comercial;Inspirali;São Paulo;Júnior/Trainee;Vendas;SP
+Auxiliar Comercial;Inspirali;Cubatão;Auxiliar/Operacional;Vendas;SP
+Analista Comercial;Confidencial;Piracicaba;Júnior/Trainee;Vendas;SP
+Gerente Comercial;Pacaembu Construtora;Ponta Grossa;Estágio;Vendas;PR
+Engenheiro - Comercial;Confidencial;Rio de Janeiro;Pleno;Vendas;RJ
+Analista Comercial Junior;ArcelorMittal;São Paulo;Júnior/Trainee;Vendas;SP
+Consultor Comercial;Grupo Prestarh;Belo Horizonte;Sênior;Vendas;MG
+Assistente Comercial;AS BUSINESS;Barueri;Auxiliar/Operacional;Vendas;SP
+Analista Comercial Jr;Grupo JCA;São Paulo;Júnior/Trainee;Vendas;SP
+Executivo Comercial;Confidencial;Não informado;Gerência;Vendas;
+Atendente Comercial;Confidencial;Localização não informada;Auxiliar/Operacional;Vendas;
+Representante Comercial;Confidencial;São Paulo;Auxiliar/Operacional;Vendas;SP
+Supervisor de Varejo;DHL Express;Brasília;Supervisão/Coordenação;Vendas;DF
+Atendente Comercial;Grupo Águas do Brasil;Campos dos Goytacazes;Auxiliar/Operacional;Vendas;RJ
+Atendente Comercial;Parceria Consultoria;Barra Mansa;Auxiliar/Operacional;Vendas;RJ
+Supervisor Administrativo Comercial - Backoffice Comercial;BR Talent;São Paulo;Supervisão/Coordenação;Vendas;SP
+Pessoa Coordenadora Comercial;ALLOS;Belém;Supervisão/Coordenação;Vendas;PA
+Desenvolvedor Comercial Alcoólicos;Coca-Cola FEMSA;Betim;Júnior/Trainee;Vendas;MG
+Representante Comercial Imobiliário - Júnior;NV Imob;São Paulo;Auxiliar/Operacional;Vendas;SP
+Tecnico Comercial de Seguros II;PAMCARY;São Paulo;Auxiliar/Operacional;Vendas;SP
+Coordenador(a) Comercial Atendimento;Aventura;São Paulo;Supervisão/Coordenação;Vendas;SP
+11193 - Consultor Comercial (Hunter);Talent Group;São Paulo;Pleno;Vendas;SP
+Coordenador de Controladoria e Contabilidade;The Adecco Group;São Paulo;Supervisão/Coordenação;Financeiro;SP
+Assistente de Finanças e Contabilidade;Fundação Getulio Vargas;Rio de Janeiro;Auxiliar/Operacional;Financeiro;RJ
+Gerente de Controladoria e Finanças;Reggiani Hunting;Belo Horizonte;Gerência;Financeiro;MG
+Fiscal;AFOCAPI;Araras;Auxiliar/Operacional;Financeiro;SP
+Gerente de Controladoria e Finanças (Controller);Grupo Valure;Brasília;Gerência;Financeiro;DF
+Analista Fiscal;Confidencial;Rio de Janeiro;Pleno;Financeiro;RJ
+Analista Financeiro;J&T Express;Salvador;Sênior;Financeiro;BA
+Analista Fiscal Júnior;OSKLEN;Rio de Janeiro;Júnior/Trainee;Financeiro;RJ
+Especialista de Controladoria;Abapa - Associação Baiana dos Produtores de Algodão;Luís Eduardo Magalhães;Sênior;Financeiro;BA
+Diretor/a de Controladoria;Confidencial;São Paulo;Diretoria;Financeiro;SP
+Especialista em Controladoria;Confidencial;Rio de Janeiro;Supervisão/Coordenação;Financeiro;RJ
+Gerente Fiscal;Confidencial;Não informado;Gerência;Financeiro;
+Gerente de Controladoria;Confidencial;Não informado;Gerência;Financeiro;
+Analista Fiscal Júnior;AMAGGI;Cuiabá;Júnior/Trainee;Financeiro;MT
+Trainee - Financeiro;Alliança Recursos Humanos;Caçapava;Júnior/Trainee;Financeiro;SP
+Analista Fiscal;Brazil GR Ltda;Rio Claro;Sênior;Financeiro;SP
+Estágio Fiscal;ArcelorMittal Gonvarri;Hortolândia;Estágio;Financeiro;SP
+Analista Financeiro Júnior;Confidencial;Rio de Janeiro;Júnior/Trainee;Financeiro;RJ
+Analista de Controladoria Pleno;Tate and Lyle;São Paulo;Pleno;Financeiro;SP
+Fiscal de Campo V 027230;Lyon Engenharia;Canaã dos Carajás;Técnico;Financeiro;PA
+Assistente Financeiro;Fundação Educacional Lucas Machado;Belo Horizonte;Sênior;Financeiro;MG
+Analista de Contabilidade Sênior;Confidencial;Rio de Janeiro;Sênior;Financeiro;RJ
+Analista de Controladoria;GL events Brasil;Rio de Janeiro;Pleno;Financeiro;RJ
+Analista Financeiro;Confidencial;Rio de Janeiro;Sênior;Financeiro;RJ
+Analista Financeiro;Talent Spotter;Sorocaba;Pleno;Financeiro;SP
+Analista  Fiscal;SILVEIRA SOARES CONTABILIDADE;Novo Hamburgo;Técnico;Financeiro;RS
+Coordenador Financeiro;Abapa - Associação Baiana dos Produtores de Algodão;Luís Eduardo Magalhães;Supervisão/Coordenação;Financeiro;BA
+Estagiário (Financeiro);OSKLEN;Rio de Janeiro;Estágio;Financeiro;RJ
+Analista Fiscal;MG Mix Concreto e Argamassa;Contagem;Pleno;Financeiro;MG
+Analista Fiscal Pleno;Montana Química;São Paulo;Pleno;Financeiro;SP
+Assistente Financeiro;AMAGGI;Cuiabá;Júnior/Trainee;Financeiro;MT
+Gerente Financeiro;COPLACANA;Piracicaba;Gerência;Financeiro;SP
+Analista Fiscal Jr;Confidencial;Curitiba;Auxiliar/Operacional;Financeiro;PR
+Analista de Controladoria Sênior;Confidencial;Fortaleza;Sênior;Financeiro;CE
+Analista Fiscal Sênior;Amigos do Bem;Localização não informada;Sênior;Financeiro;
+Analista Financeiro Pl;Azevedo & Travassos S/A;São Paulo;Pleno;Financeiro;SP
+Auxiliar Fiscal;Azevedo & Travassos S/A;São Paulo;Auxiliar/Operacional;Financeiro;SP
+Auxiliar Financeiro;Rede 7;São Paulo;Auxiliar/Operacional;Financeiro;SP
+Supervisor Fiscal;Confidencial;Rio de Janeiro;Supervisão/Coordenação;Financeiro;RJ
+Analista de Logística | Logistica;GWM;Iracemápolis;Pleno;Logistica;SP
+11158 - Gerente de Logística;Talent Group;Manaus;Gerência;Logistica;AM
+Auxiliar de Logística/Produção;Coppermetal;São Paulo;Auxiliar/Operacional;Logistica;SP
+Logística | Planejamento de Vendas e Logistica;GWM;Iracemápolis;Júnior/Trainee;Logistica;SP
+Auxiliar de Logística;Confidencial;Cajamar;Auxiliar/Operacional;Logistica;SP
+Auxiliar de Logística;The Adecco Group;Itaitinga;Auxiliar/Operacional;Logistica;CE
+Assistente Logistico;Soulan Recursos Humanos;Várzea Grande;Técnico;Logistica;MT
+Analista Logistico;Soulan Recursos Humanos;Várzea Grande;Pleno;Logistica;MT
+Auxiliar de Logística;Grupo SERES;Fortaleza;Auxiliar/Operacional;Logistica;CE
+Auxiliar de Logística;Talento Incluir;São Paulo;Auxiliar/Operacional;Logistica;SP
+Auxiliar de Logística;Adecco;Vespasiano;Auxiliar/Operacional;Logistica;MG
+Assistente de Logística;Confidencial;Rio de Janeiro;Auxiliar/Operacional;Logistica;RJ
+Auxiliar de Logística;Mercado Livre;Caxias do Sul;Auxiliar/Operacional;Logistica;RS
+Analista de Logística Jr;Mineração Taboca S/A;Barueri;Júnior/Trainee;Logistica;SP
+Analista de Logística Junior;Hydro;Tubarão;Júnior/Trainee;Logistica;SC
+Auxiliar de Logística I;Proativa RH;São Paulo;Auxiliar/Operacional;Logistica;SP
+Auxiliar de Logística;Grupo Nortearh;Belo Horizonte;Auxiliar/Operacional;Logistica;MG
+Operador Logistico;G&B e MTO - Distribuidora Autopeças;Guarulhos;Auxiliar/Operacional;Logistica;SP
+Ajudante de Logística;A.C.Camargo Cancer Center;São Paulo;Auxiliar/Operacional;Logistica;SP
+Auxiliar de Logistica;JOBCENTER DO BRASIL LTDA;São Paulo;Auxiliar/Operacional;Logistica;SP
+Analista de Logística;Confidencial;Jundiaí;Júnior/Trainee;Logistica;SP
+Analista de Logística;Evolute;Sorriso;Júnior/Trainee;Logistica;MT
+Auxiliar de Logística;Randstad Brasil;Cajamar;Auxiliar/Operacional;Logistica;SP
+Supervisor de Logística;Marelli do Brasil I Divisão Interiores;Resende;Supervisão/Coordenação;Logistica;RJ
+Auxiliar de Logística;Grupo JCA;São Paulo;Auxiliar/Operacional;Logistica;SP
+Analista de Logística;Bom Futuro;Cuiabá;Júnior/Trainee;Logistica;MT
+Estágio RH;Vogler Ingredients;São Bernardo do Campo;Estágio;Recursos Humanos;SP
+Analista de RH Sr;Grupo Expert;Campinas;Sênior;Recursos Humanos;SP
+Analista de Recursos Humanos Junior;Komatsu;Conceição do Mato Dentro;Júnior/Trainee;Recursos Humanos;MG
+Estágio em Recursos Humanos;Huawei;São Paulo;Estágio;Recursos Humanos;SP
+Analista de Recursos Humanos;XCMG Brasil Indústria;Canaã dos Carajás;Júnior/Trainee;Recursos Humanos;PA
+Aprendiz RH;Granol Agrícola;Bebedouro;Estágio;Recursos Humanos;SP
+Estagiário de RH;Amaggi;Matupá;Estágio;Recursos Humanos;MT
+Estágio Recursos Humanos;Grupo Nolasco;Magé;Estágio;Recursos Humanos;RJ
+RH Generalista;The Adecco Group;São Bernardo do Campo;Pleno;Recursos Humanos;SP
+Analista de Recursos Humanos II;Oncoclínicas&Co;Nova Lima;Pleno;Recursos Humanos;MG
+Estágio em Recursos Humanos;Confidencial;São Paulo;Estágio;Recursos Humanos;SP
+Analista de Recursos Humanos;FIESP;São Paulo;Pleno;Recursos Humanos;SP
+Analista de RH Jr;The Adecco Group;São José dos Campos;Júnior/Trainee;Recursos Humanos;SP
+Estagiário(a) Recursos Humanos;ZF AUTOMOTIVE;São Bernardo do Campo;Estágio;Recursos Humanos;SP
+Analista de Recursos Humanos Sr;Bom Futuro;Cuiabá;Sênior;Recursos Humanos;MT
+Analista de Recursos Humanos Jr.;Fundepag;São Paulo;Júnior/Trainee;Recursos Humanos;SP
+Analista de Recursos Humanos Sênior;helloo;São Paulo;Sênior;Recursos Humanos;SP
+Analista de Recursos Humanos;Bom Futuro;Nova Mutum;Júnior/Trainee;Recursos Humanos;MT
+Analista de RH Pleno;Confidencial;Serra;Pleno;Recursos Humanos;ES
+Técnico Recursos Humanos;Concremat;Barão de Cocais;Técnico;Recursos Humanos;MG
+Auxiliar de RH;Confidencial;São Bernardo do Campo;Auxiliar/Operacional;Recursos Humanos;SP
+Estágio em RH;Marelli do Brasil I Divisão Interiores;Resende;Estágio;Recursos Humanos;RJ
+Analista de Recursos Humanos Pleno;DOME Serviços Integrados;São João da Barra;Pleno;Recursos Humanos;RJ
+Estagiário em Recursos Humanos;Confidencial;Itapevi;Estágio;Recursos Humanos;SP
+Analista de Recursos Humanos Jr;Grupo Avante;Belo Horizonte;Júnior/Trainee;Recursos Humanos;MG
+Analista de Recursos Humanos Pl;Grupo JCA;Niterói;Pleno;Recursos Humanos;RJ
+Assistente de Recursos Humanos;Lightera LatAm S.A;Curitiba;Auxiliar/Operacional;Recursos Humanos;PR
+Analista de Recursos Humanos Júnior;Grupo Nortearh;Pedro Leopoldo;Técnico;Recursos Humanos;MG
+Analista de Recuros Humanos Senior;GRUPO GPS;Belo Horizonte;Sênior;Recursos Humanos;MG
+Especialista de Recursos Humanos;The Adecco Group;São Paulo;Sênior;Recursos Humanos;SP
+Analista de RH;Di Blasi, Parente & Associados;Rio de Janeiro;Júnior/Trainee;Recursos Humanos;RJ
+Estagio em Recursos Humanos;Belgo Arames;Sumaré;Estágio;Recursos Humanos;SP
+Analista de RH Pl/Sr;Confidencial;Hortolândia;Pleno;Recursos Humanos;SP
+Supervisor de RH;Confidencial;Brasília;Supervisão/Coordenação;Recursos Humanos;DF
+Analista de RH;Randstad RH;Bento Gonçalves;Júnior/Trainee;Recursos Humanos;RS
+Assistente Adm - RH;Vogler Ingredients;São Bernardo do Campo;Júnior/Trainee;Recursos Humanos;SP
+Auxiliar Administrativo – RH;Hospital do Rocio;Campo Largo;Auxiliar/Operacional;Recursos Humanos;PR
+Analista de Recursos Humanos – Remuneração;Parceria Consultoria;Rio de Janeiro;Sênior;Recursos Humanos;RJ
+Assistente Administrativo - RH;Assigna;Mucuri;Júnior/Trainee;Recursos Humanos;BA
+Analista de Desenvolvimento em RH;Grupo SERES;Rio de Janeiro;Pleno;Recursos Humanos;RJ
+Gerente de Gente & Gestão;Tele Rio;Rio de Janeiro;Gerência;Administrativo;RJ
+Gerente Administrativo - Operações;EmpregaSaúde;Vitória;Gerência;Administrativo;ES
+Gerente Administrativo Financeiro;Confidencial;Localização não informada;Gerência;Administrativo;
+Analista Administrativo Sênior – Gestão e Estoque | Fasano;Hospitalidade e Gastronomia;São Paulo;Sênior;Administrativo;SP
+Analista Administrativo (Gestão de Ativos Imobiliários);M.Roscoe Engenharia e Construções;Belo Horizonte;Pleno;Administrativo;MG
+Gerente de Tesouraria;Confidencial;Localização não informada;Gerência;Administrativo;
+Gerente de Expansão;Confidencial;Não informado;Gerência;Administrativo;
+Gerente de Manutenção;Confidencial;Localização não informada;Gerência;Administrativo;
+Auxiliar Administrativo;Hospital do Rocio;Campo Largo;Auxiliar/Operacional;Administrativo;PR
+Gerente de Compliance;Confidencial;Localização não informada;Gerência;Administrativo;
+Gerente de Facilities;Confidencial;Localização não informada;Gerência;Administrativo;
+Gerente de Infraestrutura;Confidencial;Localização não informada;Gerência;Administrativo;
+Gerente de Projetos;Confidencial;Localização não informada;Gerência;Administrativo;
+Analista Administrativo Sênior;Tradimaq SA;Ouro Branco;Sênior;Administrativo;MG
+Auxiliar Administrativo Pl;Grupo Protege;Cascavel;Pleno;Administrativo;PR
+Assistente Administrativo;DCML;Belo Horizonte;Auxiliar/Operacional;Administrativo;MG
+Auxiliar Administrativo;MINASMAQUINAS;Juiz de Fora;Auxiliar/Operacional;Administrativo;MG
+Gerente de Produção;Confidencial;Localização não informada;Gerência;Administrativo;
+Gerente de Obras;Confidencial;Localização não informada;Gerência;Administrativo;
+Gerente de EHS;Confidencial;Localização não informada;Gerência;Administrativo;
+Assistente Administrativo;Amigos do Bem;São Paulo;Auxiliar/Operacional;Administrativo;SP
+Gerente Predial;Manager Gestão Condominial;São Paulo;Gerência;Administrativo;SP
+Gerente de Processos;Confidencial;Localização não informada;Gerência;Administrativo;
+Auxiliar Administrativo;Inspirali;Natal;Auxiliar/Operacional;Administrativo;RN
+Estágio Administrativo;LEGRAND BRASIL LTDA;São Paulo;Estágio;Administrativo;SP
+Assistente Administrativo;Confidencial;Camaçari;Auxiliar/Operacional;Administrativo;BA
+Analista Administrativo I;Grupo Fleury;Vila Velha;Júnior/Trainee;Administrativo;ES
+Auxiliar Administrativo;BDO;João Pessoa;Auxiliar/Operacional;Administrativo;PB
+Assistente Administrativo;Odata;São João de Meriti;Júnior/Trainee;Administrativo;RJ
+Auxiliar Administrativo;Confidencial;Goiânia;Auxiliar/Operacional;Administrativo;GO
+Auxiliar Administrativo;Soulan Recursos Humanos;Louveira;Auxiliar/Operacional;Administrativo;SP
+Assistente Administrativo;Rede Cidadã;Uberaba;Júnior/Trainee;Administrativo;MG
+Estagiário(a) - Administrativo;CIEE;Brasília;Estágio;Administrativo;DF
+Técnico(a) de Enfermagem;Gupo Soulan RH;São Paulo;Técnico;Enfermagem;SP
+Técnico de Enfermagem;Fundação Arnaldo Vieira de Carvalho;São Paulo;Técnico;Enfermagem;SP
+Técnico(a) de Enfermagem;Inspirali;Palhoça;Auxiliar/Operacional;Enfermagem;SC
+Estágio em Enfermagem;Oncoclínicas&Co;Salvador;Estágio;Enfermagem;BA
+Acadêmico em Enfermagem;Hospital da Baleia;Belo Horizonte;Estágio;Enfermagem;MG
+Auxiliar de Enfermagem;Hospital São Camilo;São Paulo;Técnico;Enfermagem;SP
+Técnico(a) de Enfermagem;Hospital do Rocio;Campo Largo;Técnico;Enfermagem;PR
+Técnico de Enfermagem;HFC Saúde;Piracicaba;Técnico;Enfermagem;SP
+Técnico(a) de Enfermagem;Confidencial;Curitiba;Técnico;Enfermagem;PR
+Técnico de Enfermagem;Confidencial;São Paulo;Técnico;Enfermagem;SP
+Estagiário(a) de Enfermagem;Belgo Arames;Itaúna;Estágio;Enfermagem;MG
+Auxiliar de Enfermagem;Hospital Sírio-Libanês;São Paulo;Júnior/Trainee;Enfermagem;SP
+Acadêmico de Enfermagem;Fundação Educacional Lucas Machado;Belo Horizonte;Estágio;Enfermagem;MG
+Técnico de Enfermagem;Inspirali;São Paulo;Técnico;Enfermagem;SP
+Gerente de Enfermagem -  Gerência de Enfermagem - Macaé D'Or;Rede D'Or;Macaé;Gerência;Enfermagem;RJ
+Auxiliar de Enfermagem - Gerência de Enfermagem - Hospital Santa Helena;Rede D'Or;Brasília;Auxiliar/Operacional;Enfermagem;DF
+Estágio de Enfermagem - Proncor;Rede D'Or;Campo Grande;Estágio;Enfermagem;MS
+Auxiliar de Enfermagem - Sumaré;Grupo Fleury;São Paulo;Técnico;Enfermagem;SP
+Técnico de Enfermagem do Trabalho;Abertta Saúde;Itatiaiuçu;Técnico;Enfermagem;MG
+Auxiliar de Enfermagem - Labs A+;GRUPO FLEURY;Localização não informada;Técnico;Enfermagem;
+Técnico de Enfermagem do Trabalho;Confidencial;Localização não informada;Técnico;Enfermagem;
+Auxiliar de Enfermagem - Coleta;Grupo Fleury;Belém;Técnico;Enfermagem;PA
+Técnico de Enfermagem (UTI);Austa Hospital;São José do Rio Preto;Técnico;Enfermagem;SP
+Auxiliar de Enfermagem III - Campinas;Grupo Fleury;Campinas;Técnico;Enfermagem;SP
+Técnico de Enfermagem (Trabalho);UNIÃO QUÍMICA;Guarulhos;Técnico;Enfermagem;SP
+Técnico (a) de Enfermagem - Endoscopia;Confidencial;São Paulo;Técnico;Enfermagem;SP
+Tecnico de Enfermagem Fertilidade II;Confidencial;São Paulo;Técnico;Enfermagem;SP
+Técnico de Enfermagem UTI;HFC Saúde;Piracicaba;Técnico;Enfermagem;SP
+Técnico de Enfermagem - SADT;Rede D'Or;Nova Lima;Técnico;Enfermagem;MG
+Auxiliar de Enfermagem - A+ Alphaville;Grupo Fleury;Barueri;Auxiliar/Operacional;Enfermagem;SP
+Auxiliar de Enfermagem - Lapa;Grupo Fleury;São Paulo;Auxiliar/Operacional;Enfermagem;SP
+Auxiliar de Enfermagem - Morumbi;Grupo Fleury;São Paulo;Auxiliar/Operacional;Enfermagem;SP
+Coordenador (a) de Enfermagem - CME;Confidencial;Belo Horizonte;Supervisão/Coordenação;Enfermagem;MG
