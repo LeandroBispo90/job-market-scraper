@@ -155,7 +155,7 @@ Ao executar o projeto, serão gerados:
 - [x] Expandir coleta para múltiplas áreas
 - [x] Separar cidade e estado em colunas distintas
 - [x] Criar dashboard no Power BI
-- [ ] Adicionar mais fontes de vagas
+- [x] Adicionar mais fontes de vagas
 - [ ] Agendar execução automática com schedule
 - [ ] Análise de frequência de skills por cargo
 
