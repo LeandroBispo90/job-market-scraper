@@ -3,7 +3,7 @@
 Coleta automatizada de vagas de emprego de 10 áreas do mercado brasileiro,
 com limpeza dos dados e visualização em dashboard interativo no Power BI.
 
-![Dashboard Preview](docs/dashboard_preview.png)
+![Dashboard Preview](docs/dashboard_img.png)
 
 ---
 
